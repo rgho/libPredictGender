@@ -3,7 +3,7 @@ libDetectGender
 
 WARNING: It is generally bad practice to use gender guessing as a part of your user facing projects. You may and usually will offend 
 offend users with uncommon names or names common to the other gender(s). You may also offend those who do not have a simply male or female gender identity.
-====
+
 
 
 A simple library stack that provides a data based function to guess user gender based on first name. Future versions will implement results from machine learning + larger datasets.
